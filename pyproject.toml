@@ -1,0 +1,9 @@
+[project]
+name = "IS211_Assignment3"
+version = "0.1.0"
+description = "IS211 Assignment1"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "flask",
+]
